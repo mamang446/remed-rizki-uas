@@ -1,0 +1,17 @@
+[
+    {
+        "merek": "Samsung",
+        "seri": "Galaxy S24",
+        "harga": 15000000
+    },
+    {
+        "merek": "iPhone",
+        "seri": "15 Pro",
+        "harga": 20000000
+    },
+    {
+        "merek": "Xiaomi",
+        "seri": "14 Ultra",
+        "harga": 13000000
+    }
+]
